@@ -1,0 +1,1 @@
+Here the resized source infrared images from the testing phase are saved.

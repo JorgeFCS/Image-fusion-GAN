@@ -1,0 +1,1 @@
+Here the resized source visible images from the testing phase are saved.

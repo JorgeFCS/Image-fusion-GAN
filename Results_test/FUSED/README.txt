@@ -1,0 +1,1 @@
+Here the fused images from the testing phase are saved.

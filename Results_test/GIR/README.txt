@@ -1,0 +1,1 @@
+Here the artificial infrared images from the testing phase are saved.

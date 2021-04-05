@@ -1,0 +1,1 @@
+Here you should put the IR test images, in the same order as the visible ones.

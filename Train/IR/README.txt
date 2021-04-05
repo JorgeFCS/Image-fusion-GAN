@@ -1,0 +1,1 @@
+Here you should put the train IR images, in the same order as the visible ones.
