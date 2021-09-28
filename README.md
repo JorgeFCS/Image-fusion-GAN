@@ -1,4 +1,4 @@
-# Image fusion GAN
+# FIRe-GAN
 Implementation of the *FIRe-GAN* model, a GAN-based method for the fusion of visible-infrared images.
 
 ## System specifications
