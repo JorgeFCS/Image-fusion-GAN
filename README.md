@@ -10,7 +10,7 @@ It was also tested on two different versions of Tensorflow:
 
 Two separate requirements.txt files are provided. Each one reflects the dependencies used for the program on the GPU and non-GPU environments.
   
-**Note:** You can get the h5 files for the pre-trained weights [here](https://drive.google.com/drive/folders/1f2o7bEtFoug5KkLUTvimh2jJ59fgl14F?usp=sharing). You will need to copy them to the **Sample_model** folder.
+**Note:** You can get the h5 files for the pre-trained weights [here](https://drive.google.com/drive/folders/1eqeywhESfunwuIlO1-RskRqLXUFQ5omG?usp=sharing). You will need to copy them to the **Sample_model** folder.
   
 ### GPU support
 The code should run seamlessly if no GPU is detected. It is designed to work also with a **single** GPU (tested with a Tesla P100 GPU). You should specify in the **main.py** file the ID of the GPU you are using (even if you only have one). The latter is meant to prevent Tensorflow from allocating memory on multiple GPUs on a shared environment.
